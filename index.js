@@ -41,12 +41,3 @@
 
 
 })();
-
-/*
-const go = document.getElementById("goButton")
-const go1 = document.getElementById("goLight")
-const goBulb = document.getElementByClassName("go")
-go.addEventListener("click", function () {
-go1.style.backgroundColor.toggleClass("go");
-})
-*/
